@@ -1,6 +1,5 @@
 # simple_dog_simu
 
-##modify for my project
 
 ---
 
